@@ -14,7 +14,7 @@
 
 ## I'm [**Volodymyr**](https://www.linkedin.com/in/volodymyr-chubai/) and welcome to my GitHub profile! :octocat:
 
-<img align="right" height="250" width="375" alt="GIF" src="IMG/image.png" />
+<img align="right" height="300" width="375" alt="GIF" src="IMG/image.png" />
 
 I'm a **`Junior Data Analyst`** and I really enjoy learning data analysis process and how to use data for improving product metrics. 
 
